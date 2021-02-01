@@ -5,7 +5,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Style Guide",
+                "label": "",
                 "url": "/style-guide",
                 "style": "link"
             }
