@@ -1,9 +1,11 @@
 ---
-title: Contact
-sections:
-  - type: hero_section
-    title: Contact
-    align: center
-  - type: contact_section
-template: advanced
+title: lorem-ipsum
+excerpt: lorem-ipsum
+template: page
 ---
+## Lorem ipsum
+
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+- Lorem ipsum
+- dolor sit amet
